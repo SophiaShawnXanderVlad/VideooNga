@@ -1,0 +1,42 @@
+body {
+    font-size: 15pt;
+    background-color: pink;
+}
+#openDia {
+    border-radius: 10px;
+    color: lightblue;
+    background-color: #001BFF;
+}
+#butNo{
+    margin-right: 25px;
+    margin-left: 75px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: #000000;
+}
+#butYes{
+    margin-left: 25px;
+    margin-right: 75px;
+    border-radius: 10px;
+    font-size: 20px;
+    size: 40px;
+    color: #FFFFFF;
+    background-color: #000000;
+}
+.butAns{
+    border-radius: 20px;
+    align-items:center;
+    margin-left: 100px;
+    background-size: 100px;
+    background-color: skyblue;
+    color: black;
+    font-size: 40px;
+}
+
+#jsBody {
+    background-color: skyblue;
+}
+#openJS{
+    background: skyblue;
+}
